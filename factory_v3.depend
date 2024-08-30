@@ -1,0 +1,64 @@
+# depslib dependency file v1.0
+1724788489 source:c:\users\emdie\downloads\factory_v3\basestorage.cpp
+	"BaseStorage.h"
+	<iostream>
+	<algorithm>
+
+1724788511 c:\users\emdie\downloads\factory_v3\basestorage.h
+	<string>
+
+1725043559 source:c:\users\emdie\downloads\factory_v3\controller.cpp
+	"Controller.h"
+	<iostream>
+	<cstdlib>
+
+1724787790 c:\users\emdie\downloads\factory_v3\controller.h
+	<random>
+	"Factory1.h"
+	"Factory2.h"
+
+1724793555 c:\users\emdie\downloads\factory_v3\factory1.h
+	<vector>
+	"FixedAssemblyLine.h"
+	"BaseStorage.h"
+
+1724781952 c:\users\emdie\downloads\factory_v3\fixedassemblyline.h
+	"BaseStorage.h"
+
+1724797596 c:\users\emdie\downloads\factory_v3\factory2.h
+	<vector>
+	"VariableAssemblyLine.h"
+	"VariableStorage.h"
+
+1724951936 c:\users\emdie\downloads\factory_v3\variableassemblyline.h
+	"VariableStorage.h"
+
+1724950107 c:\users\emdie\downloads\factory_v3\variablestorage.h
+	<vector>
+	<string>
+
+1724793910 source:c:\users\emdie\downloads\factory_v3\factory1.cpp
+	"Factory1.h"
+
+1725043334 source:c:\users\emdie\downloads\factory_v3\factory2.cpp
+	"Factory2.h"
+	<iostream>
+
+1724781949 source:c:\users\emdie\downloads\factory_v3\fixedassemblyline.cpp
+	"FixedAssemblyLine.h"
+
+1724781954 source:c:\users\emdie\downloads\factory_v3\main.cpp
+	<iostream>
+	<vector>
+	"Controller.h"
+	<ctime>
+
+1724952098 source:c:\users\emdie\downloads\factory_v3\variableassemblyline.cpp
+	"VariableAssemblyLine.h"
+	<iostream>
+
+1725043849 source:c:\users\emdie\downloads\factory_v3\variablestorage.cpp
+	"VariableStorage.h"
+	<iostream>
+	<algorithm>
+
